@@ -1,0 +1,17 @@
+.wp_authors ul {
+  list-style: none !important;
+}
+.wp_authors {
+  border: 1px solid #000;
+  padding: 10px;
+}
+.wp_authors ul li {
+  margin-bottom: 5px;
+  display: flex;
+}
+.wp_authors ul li img {
+  border-radius: 50%;
+}
+.wp_authors ul li p {
+  margin-left: 10px;
+}
